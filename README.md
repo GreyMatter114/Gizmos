@@ -9,5 +9,8 @@ Launch the run.bat file and let it begin
 -YouTube link:
 
 -Schematic:
+![Screenshot 2022-11-05 192654](https://user-images.githubusercontent.com/104011178/200124353-6db9e5aa-9e83-4c7d-9f52-5f9d333ac17f.png)
+
 
 -Flow Chart Diagram:
+![Screenshot 2022-11-05 194909](https://user-images.githubusercontent.com/104011178/200124369-3c6a331f-b01e-4dbc-9f7a-5bcf4a41dfe4.png)
