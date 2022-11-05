@@ -5,7 +5,7 @@ import pickle
 from sklearn.feature_extraction.text import CountVectorizer
 
 def train(cv):
-    dataset = pd.read_csv('../IMDB Dataset.csv', delimiter = ',')
+    dataset = pd.read_csv('IMDB Dataset.csv', delimiter = ',')
     # Cleaning the texts
     corpus=[]
     for i in range(0, 1000):
