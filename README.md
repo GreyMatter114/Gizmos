@@ -8,7 +8,7 @@ Launch the run.bat file and let it begin
 
 -YouTube link:
 
-Schematic:
+-Schematic:
 ![Screenshot 2022-11-05 192654](https://user-images.githubusercontent.com/104011178/200124353-6db9e5aa-9e83-4c7d-9f52-5f9d333ac17f.png)
 
 
